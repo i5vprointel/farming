@@ -1,0 +1,9 @@
+libxi6 
+libxrender1 
+libxxf86vm1 
+libxfixes3 
+libc6-dev
+libboost-all-dev
+libgl1-mesa-dev
+libglu1-mesa libsm-dev
+libtcmalloc-minimal4
