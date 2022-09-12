@@ -7,3 +7,4 @@ libboost-all-dev
 libgl1-mesa-dev
 libglu1-mesa libsm-dev
 libtcmalloc-minimal4
+openjdk-11-jdk-headless
